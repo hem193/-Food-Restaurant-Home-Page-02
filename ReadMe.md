@@ -1,4 +1,4 @@
-# **Street Style Landing Page | Project_01**
+# **Food Restaurant Home Page | Project_01**
 
 Hi, I'm **Hemanth Kumar R**
 
