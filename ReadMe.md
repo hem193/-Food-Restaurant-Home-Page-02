@@ -1,4 +1,4 @@
-# **Food Restaurant Home Page | Project_01**
+# **Food Restaurant Home Page | Project_02**
 
 Hi, I'm **Hemanth Kumar R**
 
